@@ -6,6 +6,7 @@
 
 body {
 	font-family: Raleway, sans-serif;
+<<<<<<< HEAD
 
 	background-color: #E63DFE;
 	color: #000000;
@@ -16,11 +17,16 @@ body {
 	
 
 
+=======
+	background-color: #E63DFE;
+	color: #000000;
+>>>>>>> parent of 6177a3d (V1)
 }
 
 /* Changing the background colour for the header */
 
 header {
+<<<<<<< HEAD
 
 	background-color: #E63DFE;
 	
@@ -29,11 +35,16 @@ header {
 	height: 300px;
 	width: auto;
 
+=======
+	background-color: #E63DFE;
+	
+>>>>>>> parent of 6177a3d (V1)
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
+<<<<<<< HEAD
 
 	background-color: #FFFFFF;
 	color: #000000;
@@ -43,16 +54,24 @@ header {
 
 
 
+=======
+	background-color: #FFFFFF;
+	color: #000000;
+>>>>>>> parent of 6177a3d (V1)
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
+<<<<<<< HEAD
 
 	color: #000000;
 	height: 800px;
 	width: auto;
 }
 .position-relative {
+=======
+	color: #000000;
+>>>>>>> parent of 6177a3d (V1)
 }
