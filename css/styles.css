@@ -7,9 +7,9 @@
 body {
 	font-family: Raleway, sans-serif;
 	background-image:image();
-	height: 400px;
-	width: 1200px;
-	
+	height: 800px;
+	width: auto;
+	vertical-align: middle;
 
 }
 
@@ -17,14 +17,15 @@ body {
 
 header {
 	background-color: #983AF5;
-	height: 300px;
-	width: 1200px;
+	height: 200px;
+	width: auto;
+	
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #FF0004;
+	background-color: #CD31F4;
 
 }
 
@@ -33,7 +34,9 @@ header {
 footer a:hover {
 	opacity: .5;
 	height: 800px;
-	width: 1200px;
+	width: auto;
 }
 .position-relative {
+}
+.width {
 }

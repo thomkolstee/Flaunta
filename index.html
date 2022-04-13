@@ -18,21 +18,28 @@
   <body>
 
     <!-- Navigation bar, adapted from https://getbootstrap.com/docs/5.1/components/navbar/ -->
-    <nav class="navbar navbar-expand-lg navbar-light">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Flaunta&nbsp;</a>
-            </li>
-           <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-          </ul>
-        </div>
+   <header>
+	  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Flaunta&nbsp;</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+        <ul class="navbar-nav mr-auto">
+          
+          
+          <li class="nav-item dropdown">
+           
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">Action</a> <a class="dropdown-item" href="#">Another action</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Something else here</a> 
+            </div>
+          </li>
+          
+        </ul>
+        <form class="form-inline my-lg-0">
+<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
       </div>
     </nav>
     <!-- End of navigation bar -->
@@ -40,19 +47,22 @@
 
     <!-- Start of section adapted from https://getbootstrap.com/docs/5.1/examples/album/ -->
     
-      <div class="row">
-        <div class="col-md-8 col-lg-6 mx-auto">
-          <h1 class="fw-light"> Just take a deep breath...&nbsp;</h1>
-<p>
+     <div class="row"><img src="images/head.jpg" width="426" height="345" alt=""/>
+       
+
+       <div class="col-md-3 col-lg-6 mx-auto"> 
+         <p>
   
 </p>
-        </div>
-      </div>
-   
+   </div>
+     </div>
+  </header>
 	  <header class="py-2 py-md-4 py-lg-5 text-center container-fluid bg-gradient text-light">
       <div>
-        <div class="col-md-9 col-lg-4 mx-auto">
-          <h1 class="fw-light"> Just take a deep breath...&nbsp;</h1>
+        <div class="col-md-3 col-lg-8 mx-auto width">
+          <blockquote>
+            <blockquote>&nbsp; </blockquote>
+          </blockquote>
 <p>
   
 </p>
@@ -64,6 +74,7 @@
     <!-- Start of carrousel, adapted from https://getbootstrap.com/docs/5.1/components/carousel/ -->
     <section class="container-fluid p-0">
       <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+        <h4 class="fw-light"> In a world where anxiety is a growing issue, we believe self-confidence can be fully embraced when the individual feels peaceful in their own skin, because only then will they discover their true qualities, making them steadfast in the face of any difficulties.</h4>
         <div class="carousel-indicators">
           <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
           <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -71,7 +82,7 @@
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="images/slide-1.jpg" class="d-block mx-auto w-100" alt="...">
+            
             <div class="carousel-caption">
               <h3 class="d-none d-md-block">The Horizon Building</h3>
               <p>
