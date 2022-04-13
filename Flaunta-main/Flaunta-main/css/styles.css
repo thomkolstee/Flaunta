@@ -6,27 +6,55 @@
 
 body {
 	font-family: Raleway, sans-serif;
+<<<<<<< HEAD:Flaunta-main/Flaunta-main/css/styles.css
 	background-color: #E63DFE;
 	color: #000000;
+=======
+	background-image:image();
+	height: 400px;
+	width: 1200px;
+	
+
+>>>>>>> parent of 9570da0 (v3):css/styles.css
 }
 
 /* Changing the background colour for the header */
 
 header {
+<<<<<<< HEAD:Flaunta-main/Flaunta-main/css/styles.css
 	background-color: #E63DFE;
 	
+=======
+	background-color: #983AF5;
+	height: 300px;
+	width: 1200px;
+>>>>>>> parent of 9570da0 (v3):css/styles.css
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
+<<<<<<< HEAD:Flaunta-main/Flaunta-main/css/styles.css
 	background-color: #FFFFFF;
 	color: #000000;
+	height: 100px
+		
+=======
+	background-color: #FF0004;
+
+>>>>>>> parent of 9570da0 (v3):css/styles.css
 }
 
 /* Effect on social media buttons */
 
 footer a:hover {
 	opacity: .5;
+<<<<<<< HEAD:Flaunta-main/Flaunta-main/css/styles.css
 	color: #000000;
+=======
+	height: 800px;
+	width: 1200px;
+}
+.position-relative {
+>>>>>>> parent of 9570da0 (v3):css/styles.css
 }
