@@ -8,7 +8,7 @@ body {
 	font-family: Raleway, sans-serif;
  
 
-	background-color: #E63DFE;
+	
 	color: #000000;
 
 	background-image:image();
@@ -27,14 +27,10 @@ body {
 
 header {
 
-
-	background-color: #E63DFE;
-	
-
 	background-color: #983AF5;
 	height: 300px;
 	width: auto;
-
+ 	text-align: center;
 
 
 	
