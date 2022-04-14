@@ -1,0 +1,136 @@
+/* I/* Importing a Google Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500&display=swap');
+
+/* Changing the main font and background colour */
+
+body {
+	margin-right: auto; 
+    margin-left: auto; 
+	max-width:1160px; 
+	padding-right: 10px; 
+	padding-left: 10px; 
+	font-family: ;
+ 	color: #000000;
+	
+	height: 100%;
+	width: 100%;
+	
+	
+
+}
+	
+
+/* Changing the background colour for the header */
+
+header {
+
+	background-color: #cc33ff;
+	height: 250;
+	width: 100%;
+ 	text-align: center;
+	color: #000000;
+}
+
+/* Changing the background color for the navigation bar */
+
+.navbar {
+
+
+	background-color: #FFFFFF;
+	color: #000000;
+	height: 100px
+	
+}
+
+/* Effect on social media buttons */
+
+footer a:hover {
+	opacity: .5;
+
+
+	color: #000000;
+	height: 800px;
+	width: 100%;
+}
+.position-relative {
+
+	color: #000000;
+
+}
+
+#lijst {
+	text-align: left;
+	color: #000000
+}
+#foot { 
+	color: #000000
+}
+
+
+
+
+/* Changing the main font and background colour */
+
+body {
+	margin-right: auto; 
+    margin-left: auto; 
+	max-width:1160px; 
+	padding-right: 10px; 
+	padding-left: 10px; 
+	font-family: Raleway, sans-serif;
+ 	color: #000000;
+	
+	height: 100%;
+	width: 100%;
+	
+	
+
+}
+	
+
+/* Changing the background colour for the header */
+
+header {
+
+	background-color: #cc33ff;
+	height: 250;
+	width: 100%;
+ 	text-align: center;
+	color: #000000;
+}
+
+/* Changing the background color for the navigation bar */
+
+.navbar {
+
+
+	background-color: #FFFFFF;
+	color: #000000;
+	height: 100px
+	
+}
+
+/* Effect on social media buttons */
+
+footer a:hover {
+	opacity: .5;
+
+
+	color: #000000;
+	height: 800px;
+	width: 100%;
+}
+.position-relative {
+
+	color: #000000;
+
+}
+
+#lijst {
+	text-align: left;
+	color: #000000
+}
+#foot { 
+	color: #000000
+}
