@@ -1,7 +1,7 @@
 /* I/* Importing a Google Font */
 
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
 /* Changing the main font and background colour */
 
 body {
@@ -10,7 +10,7 @@ body {
 	max-width:1160px; 
 	padding-right: 10px; 
 	padding-left: 10px; 
-	font-family: ;
+	font-family:Calistoga; 
  	color: #000000;
 	
 	height: 100%;
@@ -78,7 +78,7 @@ body {
 	max-width:1160px; 
 	padding-right: 10px; 
 	padding-left: 10px; 
-	font-family: Raleway, sans-serif;
+	font-family: Calistoga;
  	color: #000000;
 	
 	height: 100%;
