@@ -157,3 +157,7 @@ footer a:hover {
 	border-radius: 5px;
 	top: 54px;
 }
+.navbar-nav button {
+	border: none;
+	background: none;
+}
